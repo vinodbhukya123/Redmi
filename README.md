@@ -1,0 +1,2 @@
+# Redmi
+devops trining
